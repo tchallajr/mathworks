@@ -1,14 +1,13 @@
 # mathworks
+# One Login Assessment
 
-One Login Assessment
-
-Challenge: 
+## Challenge: 
 
 Write a command-line program in the language of your choice that will take operations on fractions as an input and produce a fractional result. Legal operators shall be *, /, +, - (multiply, divide, add, subtract). Operands and operators shall be separated by one or more spaces. Mixed numbers will be represented by whole_numerator/denominator. e.g. "3_1/4"
 
 Improper fractions and whole numbers are also allowed as operands 
 
-Example run:
+## Example run:
 
 1/2 * 3_3/4
 = 1_7/8 
@@ -16,7 +15,9 @@ Example run:
 2_3/8 + 9/8
 = 3_1/2
 
-To Run Application:
+## To Run Application:
 
+```
 npm install
 node runner.js
+```
